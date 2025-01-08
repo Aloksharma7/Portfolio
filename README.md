@@ -45,9 +45,9 @@ Here are a few projects featured on my portfolio:
 
 Feel free to reach out for collaborations, freelance work, or any queries. You can find my contact details in the contact section of my portfolio or connect with me on:
 
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: [Gmail](mailto:aloksharma7834@gmail.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/rajusharma78/)
+- **GitHub**: [GitHub](https://github.com/Aloksharma7)
 
 ## Acknowledgments
 
